@@ -34,7 +34,7 @@
    },
    {
      "name": "time_step",
-     "long_name": "model time step [hours since 1992-01-01T12:00:00",
+     "long_name": "model time step [hours since 1992-01-01T12:00:00]",
      "grid_dimension":"1D",
      "units":"hours",
      "coverage_content_type": "coordinate"
